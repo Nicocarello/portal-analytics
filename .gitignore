@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Large database or raw data files (Optional: uncomment if you prefer not pushing them to GitHub)
+# base_portal.db
+# portal_analytics_bi.csv
